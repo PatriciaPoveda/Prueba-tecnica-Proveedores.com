@@ -1,0 +1,17 @@
+{
+  "name": "prueba-tecnica-proveedores",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Patricia Poveda",
+  "license": "ISC",
+  "devDependencies": {
+    "playwright": "^1.11.0"
+  },
+  "dependencies": {
+    "playwright-cli": "^0.180.0"
+  }
+}
